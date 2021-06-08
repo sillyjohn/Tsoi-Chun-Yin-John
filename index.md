@@ -1,8 +1,6 @@
 ## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/sillyjohn/TsoiChunYinJohn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Allow me to introduce myself real quick: My name is Tsoi Chun Yin and recently graduated from University of California - Santa Cruz with an Art& Design: Playable Media Degree.
 
 ### Markdown
 
